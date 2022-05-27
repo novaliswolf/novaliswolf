@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @novaliswolf
 - 👀 I’m interested in - Gaming 🎮, Reading 📖, Food & Cooking 🧑‍🍳🍔
-- 🌱 I’m currently learning - Python 🐍, Azure PipeLines ☁️
+- 🌱 I’m currently learning - Python 🐍, ADO Pipelines & Terraform ☁️
 - 💞️ I’m looking to collaborate on - Anything related to IaC ⚙️
 - 📫 How to reach me - GitHub: https://github.com/novaliswolf
 
